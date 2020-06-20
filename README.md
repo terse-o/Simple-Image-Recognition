@@ -1,8 +1,11 @@
 Simple Image Recognition Model
 
 Language: Python (v3.7)
+
 Editor: PyCharm Community Edition (v2019.1.3)
+
 Interpreter: Anaconda
+
 Descirption: AI model created and trained using CIFAR 10 dataset to predict within a certain degree of accuracy an
 image and what that image represents, and then assign it one of about 10 different labels.
 
