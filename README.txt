@@ -10,7 +10,11 @@ NOTE:
 Basic packages applied in this project are PIL, keras, tensorflow, matplotlib, cifar-10, numpy. 
 
 OVERVIEW:
+
 -Install necessary dependencies (cifar-10)
+
 -Input, explore and manipulate dataset using PIL (Python Image Library) and matplotlib
+
 -Build model using keras layers and train it using cifar-10 dataset
+
 -Create test model to input any image and predict a label using trained model
