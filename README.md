@@ -10,7 +10,7 @@
 image and what that image represents, and then assign it one of about 10 different labels.
 
 **NOTE:**
-Basic packages applied in this project are PIL, keras, tensorflow, matplotlib, cifar-10, numpy. 
+Basic packages applied in this project are *PIL, keras, tensorflow, matplotlib, cifar-10, numpy*.
 
 **OVERVIEW:**
 
